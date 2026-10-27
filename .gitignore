@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+outputs/*.db
+outputs/*.json
+outputs/*.log
+data/large_events.jsonl
