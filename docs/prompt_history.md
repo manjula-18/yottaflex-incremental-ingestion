@@ -1,16 +1,5 @@
 # AI Prompt History
 
-The assessment asks for the complete prompt history used during the project. Add each prompt you actually send to any AI tool, in chronological order. Do not invent prompts or claim a prompt was used if it was not.
+This project was developed with assistance from ChatGPT. I used AI guidance to understand the assessment requirements, troubleshoot implementation issues, review testing, and improve the project documentation.
 
-## Entry template
-
-### Prompt N — YYYY-MM-DD HH:MM IST — Tool: [tool]
-**Exact prompt:**
-[Paste prompt here.]
-
-**How I used the response:**
-[Describe what you accepted, changed, rejected, and tested.]
-
----
-
-AI responses are optional unless the portal guidelines say otherwise. Review every code change and be ready to explain it.
+I am recording the prompts I can verify from my available conversation history. Where the original wording cannot be recovered, I will clearly identify the entry as a summary rather than an exact quotation.
